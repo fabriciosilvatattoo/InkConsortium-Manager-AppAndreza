@@ -1,0 +1,7 @@
+{
+  "name": "InkConsortium Manager",
+  "description": "A comprehensive management system for Tattoo Consortiums, featuring payment tracking, automated eligibility checks, and a digital lucky draw system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
